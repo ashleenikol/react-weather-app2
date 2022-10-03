@@ -5,7 +5,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <Weather />
+      <Weather defaultCity="Tompkinsville" />
       <footer>
         This project was coded by Ashlee Bartley and is{" "}
         <a
