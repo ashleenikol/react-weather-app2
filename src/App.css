@@ -31,16 +31,13 @@ li {
 }
 
 canvas {
-  height: 60px;
-  width: 60px;
   float: left;
-  margin-right: 10px;
+  margin: 10px auto;
 }
 
 .temperature {
   color: rgb(85, 83, 83);
   font-size: 45px;
-  font-weight: bold;
 }
 
 .unit {
