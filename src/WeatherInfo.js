@@ -34,22 +34,6 @@ export default function WeatherInfo(props) {
           </div>
         </div>
       </div>
-      <div className="forecast">
-        <div className="row">
-          <div className="col-2">
-            <div className="weather-forecast-date">Thu</div>
-            <img
-              src="http://openweathermap.org/img/wn/10d@2x.png"
-              alt=""
-              width="42"
-            />
-            <div className="weather-forecast-temperatures">
-              <span className="weather-forecast-temperature-max">18°</span>
-              <span className="weather-forecast-temperature-min">12°</span>
-            </div>
-          </div>
-        </div>
-      </div>
     </div>
   );
 }

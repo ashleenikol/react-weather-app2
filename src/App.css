@@ -30,12 +30,11 @@ li {
   color: rgb(85, 83, 83);
 }
 
-.city-weather canvas {
+canvas {
   height: 60px;
   width: 60px;
   float: left;
   margin-right: 10px;
-  display: inline-block;
 }
 
 .temperature {
